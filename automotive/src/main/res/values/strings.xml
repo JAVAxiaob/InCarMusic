@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="true">鲸鱼音乐</string>
+    <string name="My" translatable="true">我 的</string>
+    <string name="Recommended" translatable="true">推 荐</string>
+    <string name="Kugou_Music" translatable="true">酷 狗</string>
+    <string name="NetEase_Cloud_Music" translatable="true">网易云</string>
+    <string name="QQ_Music" translatable="true">Q Q</string>
+    <string name="song_description_default">鲸鱼音乐.分享音乐</string>
+</resources>
